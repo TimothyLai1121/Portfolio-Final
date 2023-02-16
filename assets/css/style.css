@@ -105,7 +105,17 @@ h1#greeting {
   color: white;
 }
 
+h1#greeting2 {
+  font-family: var(--Pacifico);
+  font-size: 40px;
+  color: white;
+}
 
+h1#greeting3 {
+  font-family: var(--Pacifico);
+  font-size: 40px;
+  color: white;
+}
 
 .quotesOfDays p {
   font-family: var(--BebasNeue);
@@ -245,6 +255,7 @@ h1#greeting {
   color: var(--pageBackground);
   font-size: 100px;
 }
+
 
 .profilePic:hover,
 .aboutPicOne:hover,
